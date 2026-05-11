@@ -1,0 +1,2 @@
+# Enterprise-Network-Design-Implementation-using-VLANs-NAT-DHCP-RIP-v2
+I successfully designed and implemented a scalable enterprise network using Cisco Packet Tracer. This project demonstrates my hands-on skills in configuring VLAN segmentation, inter-VLAN routing, NAT/PAT, DHCP services, and WAN connectivity. The network integrates multiple switches, routers, servers, and wireless devices to simulate.
